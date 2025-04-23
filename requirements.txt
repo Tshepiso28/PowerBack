@@ -2,3 +2,4 @@ flask
 psycopg2
 flask_bcrypt
 flask_jwt_extended
+flask-cors
